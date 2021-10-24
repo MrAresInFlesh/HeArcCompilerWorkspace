@@ -8,8 +8,10 @@ Un compilateur est un programme qui prend en entrée le texte d'un programme dan
 ## Principe
 Un compilateur fonctionne par une méthode d'analyse-synthèse:
 
-### Analyse: Vise à comprendre un objet en le décomposant en ses constituants. Elle établit donc tout d'abord des critères permettant d'identifier les composants.
-Synthèse: Opération par laquelle on rassemble, en un tout homogène divers éléments d'un domaine de connaissance.
+| Analyse: | Synthèse: |
+|:-:|:-:|
+|Vise à comprendre un objet en le décomposant en ses constituants. Elle établit donc tout d'abord des critères permettant d'identifier les composants.|Opération par laquelle on rassemble, en un tout homogène divers éléments d'un domaine de connaissance.|
+
 
 - L'analyse :
   - Découpe le programme source en mots (Lexèmes)
