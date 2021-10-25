@@ -1,0 +1,5 @@
+toto = 0;
+repeat 10{
+   toto=toto+1
+};
+print toto
